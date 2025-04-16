@@ -20,14 +20,18 @@ A Python-based face recognition system to automate student attendance using webc
 - NumPy
 - CSV
 
-## 📂 Folder Structure
+### 📂 Folder Structure
 
-  face-recognition-attendance/
+```
+face-recognition-attendance/
 │
-├── dataset/            # Captured student images
-├── attendance.csv      # Auto-created CSV file with attendance records
-├── your_main_file.py   # Replace with your actual Python script name
-└── README.md
+├── dataset/              # Captured student images (one folder per student)
+├── attendance.csv        # Auto-generated CSV file with attendance records
+├── attendance_system.py  # Main Python script with GUI and logic
+└── README.md             # Project documentation
+```
+
+
 
 
 ## 🚀 How to Run
@@ -56,5 +60,5 @@ Use "Delete Images" or "Clear Attendance" as needed.
 
 ## 🧑‍💻 Author
 
-## ISHIKA TYAGI
-## B.Tech Student (2022-2026)
+ **ISHIKA TYAG**
+**B.Tech Student (2022-2026)**
